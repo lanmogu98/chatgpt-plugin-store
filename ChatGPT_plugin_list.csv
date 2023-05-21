@@ -1,0 +1,72 @@
+ID,Name,Category,Developer,Region,Description,date
+1,Speechki,Productivity,Speechki,Global,"The easiest way to convert texts to ready-to-use audio ¡ª download link, audio player page, or embed!",2023/5/16
+2,BlockAtlas,Data analysis,BlockAtlas,US,"Search the US Census! Find data sets, ask questions, and visualize.",2023/5/16
+3,OpenTable,Dining,OpenTable,Global,Allows you to search for restaurants available for booking dining experiences,2023/5/16
+4,Weather Report Data,Weather,Weather Report Data,Global,Current weather data for cities and airports using METAR aviation feeds.,2023/5/16
+5,Word Sneak,Gaming,OpenAI,Global,The AI has to sneak 3 secret words into your conversation. Guess the words to win the game!,2023/5/16
+6,Chess,Gaming,OpenAI,Global,Unleash your inner chess master with this interactive chess experience! You can play against a novice or a grandmaster!,2023/5/16
+7,Open Trivia,Gaming,Open Trivia Database,Global,Get trivia questions from various categories and difficulty levels.,2023/5/16
+8,Klarna Shopping,Shopping,Klarna,Global,Search and compare prices from thousands of online shops.,2023/5/16
+9,AITickerChat,Finance,AITickerChat,US,Retrieve USA stock insights from SEC filings as well as Earnings Call Transcripts.,2023/5/16
+10,edX,Education,edX,Global,Find courses and content from leading universities to expand your knowledge at any level.,2023/5/16
+11,ChatWithPDF,Productivity,ChatWithPDF,Global,"Plugin for asking questions, analyzing, and parsing through PDF documents by simply providing a PDF URL.",2023/5/16
+12,Show Me,Productivity,Show Me,Global,Create and edit diagrams directly in chat.,2023/5/16
+13,MixerBox OnePlayer,Entertainment,MixerBox Inc.,Global,"Unlimited music, podcasts, and videos across various genres. Enjoy endless listening with our rich playlists!",2023/5/16
+14,Keyplays Live Soccer,Sports,Keyplays,Global,"Latest live soccer standings, results, commentary, tv stations, keyplays (with and without scores).",2023/5/16
+15,AskYourPDF,Productivity,AskYourPDF,Global,"Unlock the power of your PDFs!, dive into your documents, find answers, and bring information to your fingertips.",2023/5/16
+16,Wahi,Real estate,Wahi,Canada,"Hey Ontario, ask and get so in the know on the latest listings, property insights and more.",2023/5/16
+17,Manorlead,Real estate,Manorlead,Canada and US,Get a list of listings for rent or sale in cities across Canada and the US based on your search criteria.,2023/5/16
+18,GetYourGuide,Travel,GetYourGuide,Global,"Find tours, excursions and other travel activities you can book on GetYourGuide.",2023/5/16
+19,PortfolioPilot,Finance,PortfolioPilot,US,"Your AI investing guide: portfolio assessment, recommendations, answers to all finance questions.",2023/5/16
+20,Kraftful,Product development,Kraftful,Global,Your product development coach. Ask about best practices. Get top gurus¡¯ product thinking.,2023/5/16
+21,Crafty Clues,Gaming,OpenAI,Global,Guess the words that the AI craftily clues for you. Add restrictions to make the game more interesting!,2023/5/16
+22,Golden,Data analysis,Golden Research Engine Inc.,Global,Get current factual data on companies from the Golden knowledge graph.,2023/5/16
+23,SEO.app,Marketing,SEO.app,Global,Your personal SEO assistant for content marketing.,2023/5/16
+24,DEV Community,Education,DEV Community,Global,Plugin for recommending articles or users from DEV Community.,2023/5/16
+25,KAYAK,Travel,KAYAK,Global,"Search flights, stays & rental cars or get recommendations where you can go on your budget.",2023/5/16
+26,Coupert,Shopping,Coupert,Global,Search for the internet¡¯s best coupons from thousands of online stores.,2023/5/16
+27,Change,Philanthropy,Change,Global,Discover impactful nonprofits to support in your community and beyond.,2023/5/16
+28,ScholarAI,Education,ScholarAI,Global,"Unlock the power of scientific knowledge with fast, reliable, and peer-reviewed data at your fingertips.",2023/5/16
+29,Lexi Shopper,Shopping,Amazon,Global,Get product recommendations from your local Amazon store.,2023/5/16
+30,Shop,Shopping,Shopify,Global,Search for millions of products from the world's greatest brands.,2023/5/16
+31,One Word Domains,Web development,One Word Domains,Global,Check the availability of a domain and compare prices across different registrars.,2023/5/16
+32,Zapier,Productivity,Zapier,Global,"Interact with over 5,000+ apps like Google Sheets, Gmail, HubSpot, Salesforce, and thousands more.",2023/5/16
+33,Savvy Trader AI,Finance,Savvy Trader AI,Global,"Realtime stock, crypto and other investment data.",2023/5/16
+34,BizToc,News,BizToc Media Inc.,US,Search BizToc for business & finance news.,2023/5/16
+35,Redfin,Real estate,Redfin,US and Canada,Have questions about the housing market? Find the answers to help you win in today's market.,2023/5/16
+36,Tabelog,Dining,Kakaku.com Inc.,Japan,Allows you to find restaurants in Japan that have availability for reservations.,2023/5/16
+37,Video Insights,Entertainment,Video Insights,Global,Interact with online video platforms like Youtube or Daily Motion.,2023/5/16
+38,Speak,Education,Speak AI Inc.,Global,"Learn how to say anything in another language with Speak, your AI-powered language tutor.",2023/5/16
+39,Polarr,Photo editing,Polarr Inc.,Global,Search Polarr's massive pool of user generated filters to make your photos and videos perfect.,2023/5/16
+40,Glowing,Communication,Glowing Inc.,US,"Schedule and send daily SMS messages - reminders, inspiration, helpers and more.",2023/5/16
+41,Turo,Travel,Turo Inc.,US and Canada,Search for the perfect Turo vehicle for your next trip.,2023/5/16
+42,Hauling Buddies,Animal transportation,Hauling Buddies,US,"Locate dependable animal transporters using recommendations, reviews, and regulatory compliance search features.",2023/5/16
+43,Prompt Perfect,Writing,OpenAI,Global,"Type 'perfect' to craft the perfect prompt, every time.",2023/5/16
+44,Instacart,Shopping,Instacart,US and Canada,Ask about recipes and discover the ingredients you need¡ªthen get it all delivered from local stores.,2023/5/16
+45,Bohita,Fashion,Bohita,US,Create apparel with any image you can describe! Get it delivered right to your door.,2023/5/16
+46,Cloudflare Radar,Web analytics,Cloudflare Inc.,Global,Get real-time insights into Internet traffic patterns and threats as seen by Cloudflare.,2023/5/16
+47,Ambition,Job search,Ambition,Global,Search millions of jobs near you.,2023/5/16
+48,Wishbucket,Shopping,Wishbucket,Korea,Unified product search across all Korean platforms and brands.,2023/5/16
+49,Rentable Apartments,Real estate,Rentable,US,"Get apartment options in a city of your choice, scoped to your needs and budget.",2023/5/16
+50,Tutory,Education,Tutory,Global,"Access affordable, on-demand tutoring and education right at your fingertips.",2023/5/16
+51,Vivian Health,Job search,Vivian Health,US,Take the first step to finding your next healthcare job.,2023/5/16
+52,KalendarAI,Sales,KalendarAI,Global,KalendarAI sales agents generate revenue with potential customers from 200+ million companies globally.,2023/5/16
+53,VoxScript,Search,VoxScript,Global,"Enables searching of YouTube transcripts, financial data sources, and Google Search results, and more!",2023/5/16
+54,Algorithma,Gaming,Algorithma,Global,Shape your virtual life with in this immersive life simulator game to begin Type /start to begin.,2023/5/16
+55,ndricks Sports,Sports,ndricks Software,US,"Get information about pro teams (NHL, NBA, NFL, MLB) teams by calling the ndricks Software Sports API.",2023/5/16
+56,Tasty Recipes,Cooking,Tasty,Global,"Discover recipe ideas, meal plans and cooking tips from Tasty's millions of users!",2023/5/16
+57,Zillow,Real estate,Zillow,US,"Your real estate assistant is here! Search listings, view property details, and get home with Zillow.",2023/5/16
+58,Giftwrap,Shopping,Giftwrap,Global,"Ask about gift ideas for any occasion and recipient. Get it wrapped and delivered, no address needed.",2023/5/16
+59,Yabble,Research,Yabble,Global,"Your ultimate AI research assistant; create surveys, specify audiences, collect data & analyze.",2023/5/16
+60,WebPilot,Web browsing,OpenAI,Global,"Browse & QA webpage / generate articles, from one or more URLs",2023/5/16
+61,Noteable,Data analysis,Noteable,Global,"Create notebooks in Python, SQL, and Markdown to explore data, visualize, and share notebooks with everyone.",2023/5/16
+62,KeyMate.AI Search,Search,KeyMate.AI,Global,"Search the web by using a Custom Search Engine with KeyMate.AI, your AI-powered web search engine.",2023/5/16
+63,Jobs,Job search,Jobs.com,Global,Plugin for finding job openings from all major online job boards.,2023/5/16
+64,Comic Finder,Entertainment,Comic Finder,Global,A plugin that finds a relevant comic given a description. Currently supports XKCD and SMBC comics.,2023/5/16
+65,Public,Finance,Public.com,US,"Get real-time and historical market data, including asset prices, news, research, and comprehensive financial analysis.",2023/5/16
+66,Expedia,Travel,Expedia,Global,"Bring your trip plans to life _ get there, stay there, find things to see and do.",2023/5/16
+67,Likewise,Entertainment,Likewise,Global,"Your media and entertainment companion. Get TV, Movies, Books & Podcast Recommendations.",2023/5/16
+68,Yay! Forms,Productivity,Yay! Forms,Global,"Allows you to create AI-Powered Forms, Surveys, Quizzes, or Questionnaires on Yay! Forms.",2023/5/16
+69,Shimmer: Nutrition Coach,Health,Shimmer,Global,Track meals & gain insights for a healthier lifestyle from 1m+ restaurants & grocery stores.,2023/5/16
+70,Wolfram,Data analysis,Wolfram Research Inc.,Global,"Access computation, math, curated knowledge & real-time data through Wolfram|Alpha and Wolfram Language.",2023/5/16
+71,FiscalNote,Data analysis,FiscalNote,Global,"FiscalNote enables access to select market-leading, real-time data sets for legal, political, and regulatory information",2023/5/16
